@@ -12,11 +12,11 @@ Microsoft recently announced Azure Synapse Analytics as the evolution of Azure S
 ## Azure Synapse (DW) Labs
 
 1. Get started with the lab introduction document here 
-  * https://github.com/abrahams1/azsynapselabsny/blob/master/labs/LabIntroReademe.md
+  *https://github.com/TechDataGeek/AzureSynapseHOL/blob/master/labs/Lab%20Intro.pdf
 2. Start Lab 1:
-  * https://github.com/abrahams1/azsynapselabsny/blob/master/labs/Lab1.pdf
+  * https://github.com/TechDataGeek/AzureSynapseHOL/blob/master/labs/Lab1.pdf
 3. Start Lab 2: 
-  * Run this as a pre-step for lab 2 - https://github.com/abrahams1/azsynapselabsny/blob/master/labs/Lab2Prep.sql
-  * Lab 2 - https://github.com/abrahams1/azsynapselabsny/blob/master/labs/Lab2.pdf
+  * Run this as a pre-step for lab 2 - https://github.com/TechDataGeek/AzureSynapseHOL/blob/master/labs/Lab2Prep.sql
+  * Lab 2 - https://github.com/TechDataGeek/AzureSynapseHOL/blob/master/labs/Lab2.pdf
 4. Start Lab 3:
-  * https://github.com/abrahams1/azsynapselabsny/blob/master/labs/Lab3.pdf
+  * https://github.com/TechDataGeek/AzureSynapseHOL/blob/master/labs/Lab3.pdf
