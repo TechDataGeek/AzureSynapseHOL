@@ -58,6 +58,7 @@ Create Login usgsloader with PASSWORD = 'Password!1234'
 Open another query window connected to 'AdventureWorksDW' and execute the following commands:
 ```sql
 Create user usgsloader from login usgsloader
+GRANT CONTROL to usgsloader
 EXEC sp_addrolemember 'staticrc60', 'usgsloader'
 EXEC sp_addrolemember 'db_ddladmin', 'usgsloader'
 EXEC sp_addrolemember 'db_datawriter', 'usgsloader'
@@ -66,4 +67,4 @@ EXEC sp_addrolemember 'db_datareader', 'usgsloader'
 Congratulations! You are ready to dive into labs now 😊
 
 Start Lab 1:
-* https://github.com/abrahams1/azsynapselabsny/blob/master/labs/Lab1.pdf
+* https://github.com/TechDataGeek/AzureSynapseHOL/blob/master/labs/Lab1V2.pdf
